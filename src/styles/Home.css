@@ -1,0 +1,76 @@
+.img-carousel{
+    width: 100%;
+    height: 20em;
+}
+.main{
+    margin-left:20em;
+    margin-right: 20em;
+}
+.banner-radio{
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.banner-ppal{
+    padding-left: 10em;
+    padding-right: 10em;
+    margin-top: 1em;
+}
+
+.img-extra{
+    width: 100%;
+    height: 20em;
+}
+
+.img-publicidad{
+    width: 100%;
+    height: 10em;
+    padding-left: 15em;
+    padding-right: 15em;
+    margin-top: 1em;
+    margin-bottom: 5em;
+}
+
+.logo-live{
+    width: 8em;
+}
+
+.img-empresas{
+    width: 20em;
+    height: 20em;
+    padding: 3em;
+}
+
+.programs-section{
+    width: 100%;
+    height: 20em;
+    background-color: black;
+    color:white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 3em;
+}
+
+.homepage-facebook{
+    width: 100%;
+    height: 20em;
+    background-color: black;
+    color:white;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding: 3em;
+}
+
+.testimonios-section{
+    width: 100%;
+    height: 20em;
+    background-color: black;
+    color:white;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding: 3em;
+}
+
+.video-facebook{
+    justify-content: center;
+}
